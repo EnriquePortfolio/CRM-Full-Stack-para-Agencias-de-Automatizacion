@@ -1,6 +1,6 @@
-# FlowCRM — Agencia de Automatizaciones
+# CRM con IA local
 
-CRM completo con IA local para agencias de automatización. Sin APIs externas de pago.
+CRM completo con IA local. Sin APIs externas de pago.
 
 ## Stack
 
